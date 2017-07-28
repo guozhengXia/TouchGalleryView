@@ -93,7 +93,6 @@ public class GalleryItemView extends RelativeLayout {
         @Override
         protected Bitmap doInBackground(String... params) {
             try {
-                Thread.sleep(1000);
                 OkHttpClient client = new OkHttpClient();
                 Request request = new Request.Builder()
                         .url(params[0])

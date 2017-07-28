@@ -88,7 +88,9 @@ galleryViewPager.setOnItemClickListener(new GalleryViewPager.OnItemClickListener
 });
 ```
 
+## 显示效果如下
 
+![Aaron Swartz](https://github.com/guozhengXia/TouchGalleryView/blob/master/sample01.gif)
 
 
 
